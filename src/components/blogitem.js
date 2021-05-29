@@ -7,7 +7,7 @@ function BlogItem() {
     <Card className="mt-4">
       <Card.Img variant="top" src={sampleImage} />
       <Card.Body>
-        <Card.Title>ブログ　タイトル</Card.Title>
+        <Card.Title>ブログ タイトル</Card.Title>
         <Card.Text>
           2021/05/29
         </Card.Text>
