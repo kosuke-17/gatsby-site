@@ -1,6 +1,6 @@
-import React from 'react'
+import * as React from 'react'
 import { Container, Row, Col } from 'react-bootstrap'
-import Style from './kv.module.scss'
+import * as Style from './kv.module.scss'
 function Kv() {
   return (
     <div className={Style.wrap}>
